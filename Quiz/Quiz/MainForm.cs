@@ -14,14 +14,14 @@ namespace Quiz
 		//Variaves globais 
 		string respostacerta = "X";
 		int pontos = 0;
-		string nomeImagem = "interrogação.png";
+		string nomeImagem = "transferir.jpg";
 		
 		// alternativas
 		void ButtonAClick(object sender, EventArgs e)
 		{
 			if (respostacerta == "A")
 			{
-				pictureBox1.Load();
+				pictureBox1.Load(nomeImagem);
 				MessageBox.Show("Parabéns, você acertou!!!");
 				pontos++;
 				labelPontos.Text = "Pontos: " + pontos;
@@ -36,7 +36,7 @@ namespace Quiz
 		{
 			if (respostacerta == "B")
 			{
-				pictureBox1.Load();
+				pictureBox1.Load(nomeImagem);
 				MessageBox.Show("Parabéns, você acertou!!!");
 				pontos++;
 				labelPontos.Text = "Pontos: " + pontos;
@@ -51,7 +51,7 @@ namespace Quiz
 		{
 			if (respostacerta == "C")
 			{
-				pictureBox1.Load();
+				pictureBox1.Load(nomeImagem);
 				MessageBox.Show("Parabéns, você acertou!!!");
 				pontos++;
 				labelPontos.Text = "Pontos: " + pontos;
@@ -66,7 +66,7 @@ namespace Quiz
 		{
 			if (respostacerta == "D")
 			{
-				pictureBox1.Load();
+				pictureBox1.Load(nomeImagem);
 				MessageBox.Show("Parabéns, você acertou!!!");
 				pontos++;
 				labelPontos.Text = "Pontos: " + pontos;
@@ -97,6 +97,39 @@ namespace Quiz
 		void ButtomReiniciarClick(object sender, EventArgs e)
 		{
 			Application.Restart();
+		}
+		void Button2Click(object sender, EventArgs e)
+		{
+			pictureBox1.Load("transferir.jpg");
+			labelPergunta.Text = "Oque se coloca na box?????";
+			labelA.Text = "Pirâmide na box";
+			labelB.Text = "Cone na box";
+			labelC.Text = "Escada na box";
+			labelD.Text = "Duzeeeentus";
+			respostacerta = "A";
+			nomeImagem = "piramidenabox.jpg";
+			
+			panel1.Enabled = true;
+			
+			button2.Enabled = false;
+			button3.Enabled = true;
+			
+		}
+		void Button3Click(object sender, EventArgs e)
+		{
+			pictureBox1.Load("transferir.jpg");
+			labelPergunta.Text = "testeeeeeeeeeeeeeeeeeeeeeeeeee\neeeeeeeeeeeeeee";
+			labelA.Text = "day you cool";
+			labelB.Text = "kozei";
+			labelC.Text = "migo_zei";
+			labelD.Text = "zeca_palgordinho";
+			respostacerta = "C";
+			nomeImagem = "piramidenabox.jpg";
+			
+			panel1.Enabled = true;
+			
+			button2.Enabled = false;
+			button3.Enabled = true;
 		}
 	}
 }
