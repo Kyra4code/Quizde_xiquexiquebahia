@@ -1,0 +1,16 @@
+C:\Users\aluno\Documents\SharpDevelop Projects\Quiz\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\aluno\Documents\SharpDevelop Projects\Quiz\Quiz\bin\Debug\Quiz.exe
+C:\Users\aluno\Documents\SharpDevelop Projects\Quiz\Quiz\bin\Debug\Quiz.pdb
+C:\Users\aluno\Documents\SharpDevelop Projects\Quiz\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\SharpDevelop Projects\Quiz\Quiz\obj\Debug\Quiz.MainForm.resources
+C:\Users\aluno\Documents\SharpDevelop Projects\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.Cache
+C:\Users\aluno\Documents\SharpDevelop Projects\Quiz\Quiz\obj\Debug\Quiz.exe
+C:\Users\aluno\Documents\SharpDevelop Projects\Quiz\Quiz\obj\Debug\Quiz.pdb
+C:\Users\aluno\Documents\SharpDevelop Projects\Pasta git Quiz (PA)\Quiz\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\aluno\Documents\SharpDevelop Projects\Pasta git Quiz (PA)\Quiz\Quiz\bin\Debug\Quiz.exe
+C:\Users\aluno\Documents\SharpDevelop Projects\Pasta git Quiz (PA)\Quiz\Quiz\bin\Debug\Quiz.pdb
+C:\Users\aluno\Documents\SharpDevelop Projects\Pasta git Quiz (PA)\Quiz\Quiz\obj\Debug\Quiz.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\SharpDevelop Projects\Pasta git Quiz (PA)\Quiz\Quiz\obj\Debug\Quiz.MainForm.resources
+C:\Users\aluno\Documents\SharpDevelop Projects\Pasta git Quiz (PA)\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.Cache
+C:\Users\aluno\Documents\SharpDevelop Projects\Pasta git Quiz (PA)\Quiz\Quiz\obj\Debug\Quiz.exe
+C:\Users\aluno\Documents\SharpDevelop Projects\Pasta git Quiz (PA)\Quiz\Quiz\obj\Debug\Quiz.pdb
